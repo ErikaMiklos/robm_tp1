@@ -1,0 +1,15 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/erika/ros2_ws/install/joy_teleop/lib/python3.10/site-packages",
+        "/home/erika/ros2_ws/install/teleop_tools_msgs/local/lib/python3.10/dist-packages",
+        "/home/erika/ros2_ws/install/robm_tp2/lib/python3.10/site-packages",
+        "/home/erika/ros2_ws/install/robm_tp1/lib/python3.10/site-packages",
+        "/home/erika/ros2_ws/install/robm_nxt/lib/python3.10/site-packages",
+        "/home/erika/ros2_ws/install/robm_nxt_msgs/local/lib/python3.10/dist-packages",
+        "/home/erika/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/erika/ros2_ws/install/mouse_teleop/lib/python3.10/site-packages",
+        "/home/erika/ros2_ws/install/key_teleop/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
